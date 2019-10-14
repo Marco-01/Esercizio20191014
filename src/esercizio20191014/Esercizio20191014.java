@@ -20,16 +20,16 @@ public class Esercizio20191014 {
         Persona ps = new Persona();
        
       String t = ps.invia_titolo();
-      System.out.println(" "+ t " ");
+      System.out.println(" "+ t);
         
       String n = ps.invia_nome();
-      System.out.println(" " + n " ");
+      System.out.println(" " + n);
       
       String c = ps.invia_cognome();
-      System.out.println(" " + c " ");
+      System.out.println(" " + c );
       
       String p = ps.invia_professione();
-      System.out.println("  Professione: " + p " ");
+      System.out.println("  Professione: " + p );
         
         
         
