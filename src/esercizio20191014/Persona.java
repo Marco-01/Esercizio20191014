@@ -33,7 +33,34 @@ public class Persona {
     }
     
     
+    public String invia_nome(){
+        
+        return nome;
+        
+        
+    }
     
+     public String invia_cognome(){
+        
+        return cognome;
+        
+        
+    }
+     
+    public String invia_titolo(){
+        
+         
+        
+        return titolo;
+        
+        
+    }
     
+     public String invia_professione(){
+        
+        return professione;
+        
+        
+    }
     
 }
